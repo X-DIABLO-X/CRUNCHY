@@ -10,7 +10,7 @@
 - **🔍 Filter by Name or Currency**: Quickly search and filter currencies by their names or codes for a faster experience.
 - **🔄 Swap Feature**: Instantly swap the base and target currencies with a single tap.
 - **⏱️ 24-Hour API Optimization**: Data is fetched from the Exchange Rate API every 24 hours, reducing server load and minimizing API calls.
-- **🏳️‍🌈 Country Flags**: Easily identify currencies with associated country flags for a visually intuitive experience.
+- **🏳️ Country Flags**: Easily identify currencies with associated country flags for a visually intuitive experience.
 - **👌 Easy-to-Use Interface**: Designed with simplicity and ease of use in mind.
 
 ---
@@ -57,19 +57,10 @@ Follow these steps to set up and run the CRUNCHY app locally:
 
 Below are some screenshots of the CRUNCHY app:
 
-<img src="https://github.com/user-attachments/assets/57cc281f-f6fa-4ff7-9568-acb3a493d71b" alt="Currency Conversion Preview" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/f43482b6-0cf9-45f4-bae8-fdff72844427" alt="Filter Feature Preview" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/7476c361-0ef9-48d3-a3bc-90b105c39145" alt="Swap Feature Preview" width="500" height="300">
-<img src="https://via.placeholder.com/400x300?text=Country+Flags+Preview "Country Flags Preview"" alt="Country Flags Preview" width="500" height="300">
-
-
-![Currency Conversion](https://github.com/user-attachments/assets/57cc281f-f6fa-4ff7-9568-acb3a493d71b)
-
-![Filter Feature](https://github.com/user-attachments/assets/f43482b6-0cf9-45f4-bae8-fdff72844427)
-
-![Swap Feature](https://github.com/user-attachments/assets/7476c361-0ef9-48d3-a3bc-90b105c39145)
-
-![Country Flags](https://via.placeholder.com/400x300?text=Country+Flags+Preview "Country Flags Preview")
+<img src="https://github.com/user-attachments/assets/57cc281f-f6fa-4ff7-9568-acb3a493d71b" alt="Currency Conversion Preview" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/f43482b6-0cf9-45f4-bae8-fdff72844427" alt="Filter Feature Preview" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/7476c361-0ef9-48d3-a3bc-90b105c39145" alt="Swap Feature Preview" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/b4a5e77c-46f6-47f7-8566-871af170605b" alt="Country Flags Preview" width="300" height="600">
 
 
 
