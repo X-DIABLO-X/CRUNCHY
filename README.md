@@ -57,11 +57,11 @@ Follow these steps to set up and run the CRUNCHY app locally:
 
 Below are some screenshots of the CRUNCHY app:
 
-![Currency Conversion](https://via.placeholder.com/400x300?text=Currency+Conversion+Preview "Currency Conversion Preview")
+![Currency Conversion](https://github.com/user-attachments/assets/57cc281f-f6fa-4ff7-9568-acb3a493d71b)
 
-![Filter Feature](https://via.placeholder.com/400x300?text=Filter+Feature+Preview "Filter Feature Preview")
+![Filter Feature](https://github.com/user-attachments/assets/f43482b6-0cf9-45f4-bae8-fdff72844427)
 
-![Swap Feature](https://via.placeholder.com/400x300?text=Swap+Feature+Preview "Swap Feature Preview")
+![Swap Feature](https://github.com/user-attachments/assets/7476c361-0ef9-48d3-a3bc-90b105c39145)
 
 ![Country Flags](https://via.placeholder.com/400x300?text=Country+Flags+Preview "Country Flags Preview")
 
