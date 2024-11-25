@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-- **💵 Currency Conversion**: Convert between 162 different currencies with real-time exchange rates.
+- **💵 Currency Conversion**: Convert between 162 different currencies with 24hrs updated exchange rates.
 - **🔍 Filter by Name or Currency**: Quickly search and filter currencies by their names or codes for a faster experience.
 - **🔄 Swap Feature**: Instantly swap the base and target currencies with a single tap.
 - **⏱️ 24-Hour API Optimization**: Data is fetched from the Exchange Rate API every 24 hours, reducing server load and minimizing API calls.
