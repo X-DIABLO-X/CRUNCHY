@@ -57,6 +57,12 @@ Follow these steps to set up and run the CRUNCHY app locally:
 
 Below are some screenshots of the CRUNCHY app:
 
+<img src="https://github.com/user-attachments/assets/57cc281f-f6fa-4ff7-9568-acb3a493d71b" alt="Currency Conversion Preview" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/f43482b6-0cf9-45f4-bae8-fdff72844427" alt="Filter Feature Preview" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/7476c361-0ef9-48d3-a3bc-90b105c39145" alt="Swap Feature Preview" width="500" height="300">
+<img src="https://via.placeholder.com/400x300?text=Country+Flags+Preview "Country Flags Preview"" alt="Country Flags Preview" width="500" height="300">
+
+
 ![Currency Conversion](https://github.com/user-attachments/assets/57cc281f-f6fa-4ff7-9568-acb3a493d71b)
 
 ![Filter Feature](https://github.com/user-attachments/assets/f43482b6-0cf9-45f4-bae8-fdff72844427)
@@ -65,7 +71,7 @@ Below are some screenshots of the CRUNCHY app:
 
 ![Country Flags](https://via.placeholder.com/400x300?text=Country+Flags+Preview "Country Flags Preview")
 
-*(Add animations or GIFs to demonstrate the app in action for better visualization!)*
+
 
 ---
 
